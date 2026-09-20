@@ -110,7 +110,5 @@
 <div align="center">
   <sub>
     Real-time systems, control planes &amp; full-stack products — <a href="mailto:s.l.suryawanshi4@gmail.com">s.l.suryawanshi4@gmail.com</a>
-    <br/>
-    ↓ pinned repositories &amp; contribution graph below ↓
   </sub>
 </div>
