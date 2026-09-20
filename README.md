@@ -1,16 +1,16 @@
 <!--
   Sumeet Suryawanshi — GitHub profile README
-  Theme: "systems you can see move" — motion, real-time, observability.
+  Theme: real-time systems, control planes, and full-stack products.
   Pins + contribution graph render below this README.
 -->
 
 <div align="center">
-  <img src="./assets/header.svg" alt="Sumeet Suryawanshi — systems you can see move" width="100%" />
+  <img src="./assets/header.svg" alt="Sumeet Suryawanshi — real-time systems, control planes, and full-stack products" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://github.com/IMSUMEET">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=48&lines=Building+systems+you+can+see+move;Real-time+control+planes+with+Spring+%2B+Kafka;Interactive+algorithm+worlds+in+React" alt="What I build" />
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=48&lines=Real-time+systems%2C+control+planes+%26+full-stack+products;Event-driven+backends+on+Spring+%2B+Kafka+%2B+Postgres;Interactive+algorithm+worlds+in+React" alt="What I build" />
   </a>
 </div>
 
@@ -105,15 +105,11 @@
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IMSUMEET&theme=tokyonight" alt="Most-used languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IMSUMEET&hide_border=true&background=0B1220&stroke=1E293B&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Contribution streak" />
-</div>
-
 ---
 
 <div align="center">
   <sub>
-    Systems you can see move — <a href="mailto:s.l.suryawanshi4@gmail.com">s.l.suryawanshi4@gmail.com</a>
+    Real-time systems, control planes &amp; full-stack products — <a href="mailto:s.l.suryawanshi4@gmail.com">s.l.suryawanshi4@gmail.com</a>
     <br/>
     ↓ pinned repositories &amp; contribution graph below ↓
   </sub>
