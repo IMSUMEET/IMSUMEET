@@ -113,8 +113,23 @@
   </tr>
 </table>
 
+<br/>
+
 <div align="center">
-  <sub>… and a One&nbsp;Piece–themed <a href="https://imsumeet.github.io/Portfolio/">portfolio site</a> (<a href="https://github.com/IMSUMEET/Portfolio">repo</a>).</sub>
+
+<a href="https://imsumeet.github.io/Portfolio/">
+  <img src="./assets/portfolio.gif" alt="Portfolio — a One Piece themed personal site" width="72%" />
+</a>
+
+<h3>🏴‍☠️ Portfolio — a One Piece–themed voyage</h3>
+
+<sub>My personal site as a playful voyage — custom cursors, hand-built scenes, and shipped work, all themed around One&nbsp;Piece.</sub>
+
+<sub><b>React · JavaScript · motion design</b></sub>
+
+<a href="https://imsumeet.github.io/Portfolio/">live</a> ·
+<a href="https://github.com/IMSUMEET/Portfolio">repo</a>
+
 </div>
 
 ## ✦ Toolbox
