@@ -10,13 +10,14 @@
 
 <div align="center">
   <a href="https://github.com/IMSUMEET">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=820&height=48&lines=Simulation-first+products+%26+real-time+control+planes;Video+intelligence%2C+explainable+ML%2C+serverless+pipelines;Full-stack+apps+shipped+end+to+end" alt="What I build" />
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=820&height=48&lines=Simulation-first+products+%26+real-time+control+planes;Distributed+systems+%26+consensus%2C+from+the+paper+up;Video+intelligence%2C+explainable+ML%2C+serverless+pipelines;Full-stack+apps+shipped+end+to+end" alt="What I build" />
   </a>
 </div>
 
 <div align="center">
 
 [![LeetDesign — Repo](https://img.shields.io/badge/LeetDesign-Repo-6366f1?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/IMSUMEET/leetdesign)
+[![RaftLab — Repo](https://img.shields.io/badge/RaftLab-Repo-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/IMSUMEET/raftlab)
 [![Castlens — Repo](https://img.shields.io/badge/Castlens-Repo-22d3ee?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/IMSUMEET/castlens)
 [![Optika — Live](https://img.shields.io/badge/Optika-Live-14b8a6?style=for-the-badge&logo=react&logoColor=white)](https://imsumeet.github.io/optika/)
 [![Email](https://img.shields.io/badge/Say_hi-Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.l.suryawanshi4@gmail.com)
@@ -52,6 +53,24 @@
 <sub><b>Next.js 15 · React 19 · TypeScript · React Flow · Zustand</b></sub>
 
 <a href="https://github.com/IMSUMEET/leetdesign"><b>Explore the repo →</b></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/IMSUMEET/raftlab">
+  <img src="https://raw.githubusercontent.com/IMSUMEET/raftlab/main/docs/media/walkthrough.gif" alt="RaftLab — watch a database survive crashes with live Raft consensus" width="90%" />
+</a>
+
+<h3>⚓ RaftLab — watch a database survive crashes</h3>
+
+<sub>A distributed key-value store on a <b>from-scratch Raft implementation</b> (leader election, log replication, crash-safe persistence) — verified under the race detector and networked over <b>gRPC</b>. The twist: a live visualizer where each server is an island. <b>Write data and watch boats ferry it</b>, crash a server to trigger a real election, or split the network to see split-brain prevented — narrated in plain English.</sub>
+
+<sub><b>Go · gRPC · Protobuf · SSE · vanilla JS/SVG</b></sub>
+
+<a href="https://github.com/IMSUMEET/raftlab"><b>Explore the repo →</b></a>
 
 </div>
 
@@ -135,7 +154,7 @@
 ## ✦ Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,java,spring,python,pytorch,fastapi,postgres,redis,kafka,docker,terraform,aws,githubactions&theme=dark&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=go,ts,react,nextjs,nodejs,tailwind,java,spring,python,pytorch,fastapi,postgres,redis,kafka,docker,terraform,aws,githubactions&theme=dark&perline=9" alt="Tech stack" />
 </div>
 
 ## ✦ By the numbers
@@ -148,7 +167,7 @@
 &nbsp;
 ![Focus](https://img.shields.io/badge/Focus-simulation--first%20products-a78bfa?style=for-the-badge)
 
-<sub>Recently shipped: a system-design simulator, a video-intelligence pipeline, a dispatch benchmark lab, and an explainable-ML app.</sub>
+<sub>Recently shipped: a system-design simulator, a from-scratch Raft consensus visualizer, a video-intelligence pipeline, a dispatch benchmark lab, and an explainable-ML app.</sub>
 
 </div>
 
