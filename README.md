@@ -40,43 +40,33 @@
 
 ## ✦ Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/IMSUMEET/leetdesign">
-  <img src="https://raw.githubusercontent.com/IMSUMEET/leetdesign/main/docs/media/walkthrough.gif" alt="LeetDesign — learn system design by building systems and watching them break under load" width="90%" />
-</a>
-
-<h3>🏗️ LeetDesign — learn system design by building it</h3>
-
-<sub>A <b>simulation-first</b> system-design studio. Drag in components, wire the data flow, then <b>dial up traffic and watch requests move in real time</b> — latency climbs, queues back up, nodes overload, and you fix it by scaling the right thing. Backed by a physics-based engine (capacity via Little's Law, traffic contracts, a 100 ms tick loop) and a live <b>Traffic Control Deck</b>.</sub>
-
-<sub><b>Next.js 15 · React 19 · TypeScript · React Flow · Zustand</b></sub>
-
-<a href="https://github.com/IMSUMEET/leetdesign"><b>Explore the repo →</b></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/IMSUMEET/raftlab">
-  <img src="https://raw.githubusercontent.com/IMSUMEET/raftlab/main/docs/media/walkthrough.gif" alt="RaftLab — watch a database survive crashes with live Raft consensus" width="90%" />
-</a>
-
-<h3>⚓ RaftLab — watch a database survive crashes</h3>
-
-<sub>A distributed key-value store on a <b>from-scratch Raft implementation</b> (leader election, log replication, crash-safe persistence) — verified under the race detector and networked over <b>gRPC</b>. The twist: a live visualizer where each server is an island. <b>Write data and watch boats ferry it</b>, crash a server to trigger a real election, or split the network to see split-brain prevented — narrated in plain English.</sub>
-
-<sub><b>Go · gRPC · Protobuf · SSE · vanilla JS/SVG</b></sub>
-
-<a href="https://github.com/IMSUMEET/raftlab"><b>Explore the repo →</b></a>
-
-</div>
-
-<br/>
-
 <table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/IMSUMEET/leetdesign">
+        <img src="https://raw.githubusercontent.com/IMSUMEET/leetdesign/main/docs/media/walkthrough.gif" alt="LeetDesign — learn system design by building it" width="100%" />
+      </a>
+      <br/>
+      <h3>🏗️ LeetDesign — system design by building it</h3>
+      <sub>A <b>simulation-first</b> studio: drag in components, wire the data flow, then <b>dial up traffic and watch it break</b> in real time. Physics-based engine (Little's Law, traffic contracts, a 100 ms tick loop) and a live Traffic Control Deck.</sub>
+      <br/><br/>
+      <sub><b>Next.js · React · TypeScript · React Flow</b></sub>
+      <br/>
+      <a href="https://github.com/IMSUMEET/leetdesign">repo</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/IMSUMEET/raftlab">
+        <img src="https://raw.githubusercontent.com/IMSUMEET/raftlab/main/docs/media/walkthrough.gif" alt="RaftLab — watch a database survive crashes" width="100%" />
+      </a>
+      <br/>
+      <h3>⚓ RaftLab — watch a database survive crashes</h3>
+      <sub>A distributed KV store on a <b>from-scratch Raft</b> implementation, networked over <b>gRPC</b>. A live island visualizer — <b>watch boats ferry data</b>, crash a server to trigger an election, or split the network to see split-brain prevented.</sub>
+      <br/><br/>
+      <sub><b>Go · gRPC · Protobuf · SSE</b></sub>
+      <br/>
+      <a href="https://github.com/IMSUMEET/raftlab">repo</a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/IMSUMEET/velocity">
@@ -130,26 +120,30 @@
       <a href="https://github.com/IMSUMEET/optika">repo</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://imsumeet.github.io/Portfolio/">
+        <img src="./assets/portfolio.gif" alt="Portfolio — a One Piece themed personal site" width="100%" />
+      </a>
+      <br/>
+      <h3>🏴‍☠️ Portfolio — a One Piece voyage</h3>
+      <sub>My personal site as a playful voyage — custom cursors, hand-built scenes, and shipped work, all themed around One&nbsp;Piece.</sub>
+      <br/><br/>
+      <sub><b>React · JavaScript · motion design</b></sub>
+      <br/>
+      <a href="https://imsumeet.github.io/Portfolio/">live</a> ·
+      <a href="https://github.com/IMSUMEET/Portfolio">repo</a>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <h3>✦ More on the way</h3>
+      <sub>Simulation-first products, real-time control planes, and full-stack apps — shipped end to end.</sub>
+      <br/><br/>
+      <a href="https://github.com/IMSUMEET?tab=repositories"><b>All repositories →</b></a>
+      <br/><br/>
+      <a href="mailto:s.l.suryawanshi4@gmail.com"><b>Say hi ✉</b></a>
+    </td>
+  </tr>
 </table>
-
-<br/>
-
-<div align="center">
-
-<a href="https://imsumeet.github.io/Portfolio/">
-  <img src="./assets/portfolio.gif" alt="Portfolio — a One Piece themed personal site" width="72%" />
-</a>
-
-<h3>🏴‍☠️ Portfolio — a One Piece–themed voyage</h3>
-
-<sub>My personal site as a playful voyage — custom cursors, hand-built scenes, and shipped work, all themed around One&nbsp;Piece.</sub>
-
-<sub><b>React · JavaScript · motion design</b></sub>
-
-<a href="https://imsumeet.github.io/Portfolio/">live</a> ·
-<a href="https://github.com/IMSUMEET/Portfolio">repo</a>
-
-</div>
 
 ## ✦ Toolbox
 
